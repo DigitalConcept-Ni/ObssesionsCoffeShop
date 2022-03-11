@@ -1,0 +1,17 @@
+@import url('cup.css');
+@import url('construction.css');
+
+:root{
+  --principal: #f8f5f0; 
+  --coffe: rgb(226, 200, 167); 
+}
+
+body{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.img-brand {
+  height: 100%;
+}
